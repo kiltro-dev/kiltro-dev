@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ignacio Henríquez</h1>
 <h3 align="center">A passionate fullstack developer from Chile</h3>
 
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" alt="Night Programming GIF by Metin Seven [Video] | Animation design, Animated  gif, Tech humor" data-noaft="1" style="width: 380px; height: 285px; margin: 0px;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiltro-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kiltro-dev" /> </p>
 
 - 🔭 I’m currently working on **React js and Express js projects**
