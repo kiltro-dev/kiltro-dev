@@ -1,4 +1,3 @@
-![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 <h1 align="center">Hi 👋, I'm Ignacio Henríquez</h1>
 <h3 align="center">A passionate fullstack developer from Chile</h3>
 
