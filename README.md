@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 💬 Ask me about **Javascript, React js, Node js, Espress js**
+- 💬 Ask me about **Javascript, React js, Node js, Express js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
