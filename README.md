@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Golang and Software Architecture**
 
-- 👯 I’m looking to collaborate on **Open Source projects**
+- 👯 I’m looking to collaborate on **Fun Open Source projects**
 
 - 💬 Ask me about **Javascript, React js, Node js, Express js**
 
