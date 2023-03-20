@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiltro-dev&show_icons=true&locale=en&bg_color=0D1117" alt="kiltro-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiltro-dev/?user=D3press3dd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&" alt="kiltro-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiltro-dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&" alt="kiltro-dev" /></p>
