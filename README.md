@@ -7,7 +7,7 @@
 
 # About me
 
-- 🔭 I’m currently working on **React js and Express js projects**
+- 🔭 I’m currently working on **React js, Express js and Nest js projects**
 - 🌱 I’m currently learning **Java, Golang and Software Architecture**
 - 👯 I’m looking to collaborate on **Fun Open Source projects**
 - 💬 Ask me about **Javascript, React js, Node js, Express js**
