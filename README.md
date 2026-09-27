@@ -26,12 +26,12 @@ I enjoy going beyond making things work — exploring **architecture, system des
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiltro-dev&show_icons=true&layout=compact&theme=react&stroke=0000&bg_color=0D1117" alt="kiltro-dev" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiltro-dev&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=react&stroke=0000&bg_color=0D1117" alt="kiltro-dev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiltro-dev&show_icons=true&layout=compact&theme=react&stroke=0000&bg_color=0D1117" alt="kiltro-dev stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiltro-dev&layout=compact&langs_count=8&theme=react&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiltro-dev&show_icons=true&theme=react&stroke=0000&background=0D1117&" alt="kiltro-dev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiltro-dev&show_icons=true&theme=react&stroke=0000&background=0D1117&" alt="kiltro-dev streak" />
 </div>
