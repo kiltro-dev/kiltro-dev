@@ -27,11 +27,13 @@ This GitHub is a collection of experiments, projects, and ideas where I explore 
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiltro-dev&show_icons=true&theme=react&stroke=0000&bg_color=0D1117&hide_border=true" height="150" alt="kiltro-dev stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiltro-dev&langs_count=8&count_private=true&layout=compact&theme=react&stroke=0000&bg_color=0D1117&hide_border=true" height="150" alt="kiltro-dev top langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiltro-dev&show_icons=true&layout=compact&theme=react&stroke=0000&bg_color=0D1117" alt="kiltro-dev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiltro-dev&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=react&stroke=0000&bg_color=0D1117" alt="kiltro-dev" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiltro-dev&show_icons=true&theme=react&stroke=0000&background=0D1117&hide_border=true" alt="kiltro-dev streak" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiltro-dev&show_icons=true&theme=react&stroke=0000&background=0D1117&" alt="kiltro-dev" />
+</div>
