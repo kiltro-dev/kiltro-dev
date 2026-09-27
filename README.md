@@ -1,5 +1,5 @@
-<h1 align="center">Hey there👋, I'm Ignacio</h1>
-<h3 align="center">Full-Stack Developer | Building AI Agents & Microservices</h3>
+<h1 align="center">Hi, I'm Ignacio 👋</h1>
+<h3 align="center">Software Engineer | Backend, Distributed Systems & AI Agents</h3>
 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right" alt="coding" width="400">
 
@@ -7,14 +7,20 @@
 
 # About me
 
-I'm a Full-Stack Developer with 5+ years building production systems in **TypeScript, React, and NestJS**. I've shipped microservices at scale on AWS, and I'm currently building **multi-agent AI systems** using **CrewAI** and **Mastra**.
+I'm a Software Engineer focused on **backend development, distributed systems, and modern JavaScript/TypeScript ecosystems**.
+
+I enjoy building software that is not only functional, but also **well-structured, maintainable, and designed to evolve**. My main experience is around **Node.js, TypeScript, React, APIs, databases, cloud infrastructure, and software architecture**, with a growing focus on **AI-assisted and agentic software development**.
+
+I'm particularly interested in understanding what happens beyond simply making things work: **architecture, system boundaries, automation, testing, developer tooling, and how to build reliable software as systems and AI capabilities become increasingly complex**.
+
+This GitHub is a collection of experiments, projects, and ideas where I explore these areas and continue sharpening my engineering skills.
 
 - 🔭 Currently building [**research-write-article**](https://github.com/kiltro-dev/research-write-article) 🤖
 - 🌱 I’m currently exploring **Advanced Software Architecture and AI Workflows**
 - 👯 I’m looking to collaborate on **Fun Open Source projects**
-- 💬 Ask me about **TypeScript, React, AWS, Microservices, or AI Agents**
+- 💬 Ask me about **TypeScript, Node, AWS, Microservices, or AI Agents**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech I work with:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,aws,docker,postgres,mongodb,mysql,kafka,jest,githubactions,python,linux,git,figma,tailwind,sass,css,html&theme=dark" />
 </p>
