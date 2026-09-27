@@ -7,20 +7,25 @@
 
 # About me
 
-I'm a Full-Stack Developer with 5+ years building production systems in **TypeScript, React, and NestJS**. I've shipped microservices at scale on AWS, and I'm currently building **multi-agent AI systems** using **Mastra**.
+I'm a Full-Stack Developer with 5+ years building production systems in **TypeScript, React, and NestJS**. I've shipped microservices at scale on AWS, and I'm currently building **multi-agent AI systems** using **CrewAI** and **Mastra**.
 
-- 🔭 Currently building [**mastra-english-tutor**](https://github.com/kiltro-dev/mastra-english-tutor) 🤖
-- 🌱 I’m currently learning **Java, Golang and Software Architecture**
+- 🔭 Currently building [**research-write-article**](https://github.com/kiltro-dev/research-write-article) 🤖
+- 🌱 I’m currently exploring **Advanced Software Architecture and AI Workflows**
 - 👯 I’m looking to collaborate on **Fun Open Source projects**
-- 💬 Ask me about **Javascript, React, Node, AWS, Microservices**
+- 💬 Ask me about **TypeScript, React, AWS, Microservices, or AI Agents**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,aws,docker,postgres,mongodb,mysql,kafka,jest,githubactions,python,linux,git,figma,tailwind,sass,css,html&theme=dark" />
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiltro-dev&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=react&stroke=0000&bg_color=0D1117" alt="kiltro-dev" />
+<br/>
 
-<img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiltro-dev&show_icons=true&theme=react&stroke=0000&background=0D1117&" alt="kiltro-dev" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiltro-dev&show_icons=true&theme=react&stroke=0000&bg_color=0D1117&hide_border=true" height="150" alt="kiltro-dev stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiltro-dev&langs_count=8&count_private=true&layout=compact&theme=react&stroke=0000&bg_color=0D1117&hide_border=true" height="150" alt="kiltro-dev top langs" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiltro-dev&show_icons=true&layout=compact&theme=react&stroke=0000&bg_color=0D1117" alt="kiltro-dev" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiltro-dev&show_icons=true&theme=react&stroke=0000&background=0D1117&hide_border=true" alt="kiltro-dev streak" />
+</p>
